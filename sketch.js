@@ -13,6 +13,8 @@ function setup() {
         line(i, 0, i, 2000);
     }
     stroke(color(79, 180, 177));
+    fill(0, 0, 0, 25)
+    circle(250, 250, 500)
     strokeWeight(2);
     line(250, 0, 250, 500);
     line(0, 250, 500, 250);
