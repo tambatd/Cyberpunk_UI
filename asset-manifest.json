@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Cyberpunk_UI/static/css/main.ca3e4491.chunk.css",
+    "main.js": "/Cyberpunk_UI/static/js/main.4515cc8f.chunk.js",
+    "main.js.map": "/Cyberpunk_UI/static/js/main.4515cc8f.chunk.js.map",
+    "runtime-main.js": "/Cyberpunk_UI/static/js/runtime-main.d6ce4b2e.js",
+    "runtime-main.js.map": "/Cyberpunk_UI/static/js/runtime-main.d6ce4b2e.js.map",
+    "static/js/2.2d4b9eee.chunk.js": "/Cyberpunk_UI/static/js/2.2d4b9eee.chunk.js",
+    "static/js/2.2d4b9eee.chunk.js.map": "/Cyberpunk_UI/static/js/2.2d4b9eee.chunk.js.map",
+    "static/js/3.350df222.chunk.js": "/Cyberpunk_UI/static/js/3.350df222.chunk.js",
+    "static/js/3.350df222.chunk.js.map": "/Cyberpunk_UI/static/js/3.350df222.chunk.js.map",
+    "index.html": "/Cyberpunk_UI/index.html",
+    "static/css/main.ca3e4491.chunk.css.map": "/Cyberpunk_UI/static/css/main.ca3e4491.chunk.css.map",
+    "static/js/2.2d4b9eee.chunk.js.LICENSE.txt": "/Cyberpunk_UI/static/js/2.2d4b9eee.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Cyberpunk_UI/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6ce4b2e.js",
+    "static/js/2.2d4b9eee.chunk.js",
+    "static/css/main.ca3e4491.chunk.css",
+    "static/js/main.4515cc8f.chunk.js"
+  ]
+}
